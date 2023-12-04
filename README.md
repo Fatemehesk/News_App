@@ -4,10 +4,6 @@
 
 A simple React-based News App that fetches data from the [News API](https://newsapi.org/) and displays it. The app utilizes Materialize CSS for styling.
 
-## Demo
-
-Include a link to a live demo or add screenshots/gifs of your application here.
-
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps:
