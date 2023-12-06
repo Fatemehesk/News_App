@@ -1,6 +1,5 @@
 # News App
 
-![News App Demo](link-to-demo-gif-or-screenshot)
 
 A simple React-based News App that fetches data from the [News API](https://newsapi.org/) and displays it. The app utilizes Materialize CSS for styling.
 
